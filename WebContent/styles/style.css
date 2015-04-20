@@ -1,0 +1,41 @@
+
+
+
+    body{
+    margin: 0px;
+    font-family: Verdana, Geneva, sans-serif;    
+    }
+    #fixed{
+    width:600px;
+    margin: 0 auto;     
+    }
+    input{
+    width: 300px;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    font-size: 1.2em;
+    margin-bottom: 10px;
+    margin-top: 5px;    
+    }
+    label{
+    padding: 15px 0;    
+    float: left;
+    width: 200px;    
+    } 
+    #submitbtn{
+    width: 200px;
+    margin-left: 200px;    
+    }
+    #msg{
+    color: red;
+    padding: 10px 0 10px 20px;
+    margin-left: 179px;    
+    } 
+    #result{
+    color: green;
+    font-weight: bold;  
+    }
+    #mandatory{
+    color: red;
+    }         
